@@ -32,39 +32,7 @@ Solved numerically using `scipy` RK45 integrator.
 
 ---
 
-## Results — 4 figures
-
-### Figure 1 — Polarisation curves
-![fig1](plots/fig1_polarisation_curve.png)
-
-V–I curves at 40, 60, 80 °C with voltage loss breakdown. Higher temperature
-reduces both activation and ohmic losses simultaneously.
-
----
-
-### Figure 2 — System efficiency
-![fig2](plots/fig2_efficiency.png)
-
-Efficiency vs current density at three temperatures. Shows the operating
-window (100–400 A/m²) and the 70% industrial efficiency threshold.
-
----
-
-### Figure 3 — Dynamic step response
-![fig3](plots/fig3_dynamic_response.png)
-
-Voltage transient for a step from 150 → 400 A/m² at t = 5 s.
-Parametric study across τ ∈ {2, 5, 10, 20} s shows how time constant
-controls response speed — critical for grid-balancing applications.
-
----
-
-### Figure 4 — 2D operating map
-![fig4](plots/fig4_operating_map.png)
-
-Efficiency and power density contoured over the full (I, T) space.
-The key design trade-off — high power density always costs efficiency —
-is quantified across the entire operating range.
+# Check the figures in pdf file as i have shared
 
 ---
 
