@@ -48,9 +48,7 @@ pip install numpy matplotlib scipy
 python awe_simulation.py
 ```
 
-All 4 figures are saved automatically to the `plots/` folder.
 
-**Requirements:** Python 3.9 or newer. No non-standard dependencies.
 
 ---
 
